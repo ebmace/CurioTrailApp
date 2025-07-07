@@ -1,0 +1,10 @@
+# Ignore PHP config with secrets
+php-api/secret-cfg/config.php
+php-api/.vscode/sftp.json
+
+# Or ignore all *.env files, if you're using env vars
+#*.env
+
+# Optional: ignore IONOS-specific or system files
+#.DS_Store
+#Thumbs.db
